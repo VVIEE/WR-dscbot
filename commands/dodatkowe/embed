@@ -1,0 +1,54 @@
+ .setAuthor('VIE', message.author.displayAvatarURL()) // set the author with his avatar
+
+
+
+
+
+    .addFields(
+        { name: 'Test Number 1', value: 'This is a example value', inline: true}, // Fields, inline: true mean they will be in the same line
+        { name: 'Test Number 2', value: 'This is a example value', inline: true},
+        { name: 'Test Number 3', value: 'This is a example value'},
+        { name: 'Test Number 4', value: 'This is a example value'})
+        
+
+
+        Suita
+Ma części składające się głównie z tańców:
+* Allemande
+* Courante
+* Sarabande
+* Gigue
+INTERMEZZO NIETANECZNE - wstawka/przerywnik
+Części taneczne w suicie:
+1. preludium - „przed grą” powstało do korygowania stroju / przygrywka: ~uwertura/orkiestra.
+Inne: aria (na strunie G)
+          rondo
+J.S Bach - Suita orkiestrowa D dur nr3, aria (na str G)
+ORATORIUM
+* Wielka forma wokalno - instrumentalna
+* Przeznaczona na orkiestrę + soliści i chór o tematyce religijnej i świeckiej 
+* Występuje narrator (elementy epickie)
+* Najczęściej wykonywana w czasie wielkiego tygodnia 
+* Najsłynniejsze pasje pisali w baroku 
+* Do oratoriów dodawano teksty „od siebie” oprócz tekstów z ewangelii
+* Dopisywane libretta (teksty uzupełniające) nadawały ciągłość relacjii
+* 
+PASJA
+* Religijna, związana z nowym testamentem i ze śmiercią Jezusa na krzyżu.
+* Opiera się na relacji jednego z ewangelistów. (Pasja według Mateusza, Łukasza, Marka, Jana)
+* Największe pasje pisał Bach
+* Współcześnie największa pasje napisał Polak Krzysztof Penderecki (pasja według Świetego Łukasza)
+* Narratorem pasji jest zawsze ewangelista
+MSZA
+Części stałe mszy:
+* Kyrie - zmiłuj się nad nami 
+* Gloria - chwała 
+* Credo - wierze 
+* Sanctus - święty 
+* Benedictus - błogosławiony 
+* Agnus Dei - baranku Boży 
+* Benedicamus Domine / Ite missa est - błogosławmy pana / (idźcie) ofiara spełniona 
+Giovanni Perlugi da Palestrina - Missa Papae Marcelli
+CANTATA
+* Forma wokalno-instrumentalna
+* Rozwinęła się w okresie baroku
